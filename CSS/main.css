@@ -3,10 +3,12 @@ body {
     margin: 0 10%;
   }
   
-  .container {
-    border: 2px solid #a2a2a6;
+/* Color Section */
+
+  .bigcontainer-color {
+    border: 4px solid #000000;
     padding: 10px;
-    margin: 10px auto;
+    margin: 50px auto;
   }
   
   .color-container {
@@ -21,24 +23,28 @@ body {
     min-height: 100px;
   }
   
-  .cool-blue {
-    background-color: #2d5dcc;
-    color: #fff;
+  .gold {
+    background-color: #E0A24A;
+    color: #005000;
   }
   
-  .pink {
-    background-color: #d957d9;
-    color: #000;
+  .purple {
+    background-color: #2d1d5a;
+    color: #E0A24A;
   }
   
-  .mint-green {
-    background-color: #4fe0b0;
+  .deep-blue {
+    background-color: #000cad;
+    color: #00B6B5;
   }
   
-  .beige {
-    background-color: #efd9ca;
+  .darkgreen {
+    background-color: #005000;
+    color: #E0A24A;
   }
   
+  /*Font Section*/
+
   .font-panel {
     width: 45%;
     display: inline-block;
